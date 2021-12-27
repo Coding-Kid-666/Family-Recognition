@@ -1,0 +1,16 @@
+.objects{
+    color:cyan;
+}
+body{
+    background: linear-gradient(blue 0%, darkblue 50%, black 100%);
+}
+p,label,span{
+    color: white;
+}
+#camera,#output{
+    width: 350px;
+    height:300px;
+    border-style: dashed ridge;
+    border-width: 2px;
+    border-color: white;
+}
